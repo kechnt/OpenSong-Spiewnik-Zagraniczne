@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Embracing Accusation</title>
+  <author>Shane Barnard, Shane Everett</author>
+  <copyright>2007 Inpop Records</copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>;CAPO 3
+ 
+[V1]
+.Em            C
+ The father of lies,
+.Em        C                    Em
+ Coming to steal, kill, and destroy 
+.      C                        Em
+ All my hopes of being good enough.
+ 
+[P]
+.                    C                              D
+ I hear him saying, "Cursed are the ones who can't abide."
+.     C          D          C
+ He's right. Alleluia. He's right.
+
+[C]
+.C        D             C                  D      C
+ The devil is preaching  the song of the redeemed,
+.         D                  G       A      Bm   A  G  
+ That I am cursed and gone astray, I cannot gain salvation.
+.                     Em
+ Embracing accusation. 
+ 
+[V2]
+ Could the father of lies
+ Be telling the truth of God to me tonight?
+ If the penalty of sin is death, then death is mine.
+ 
+[C2]
+.C        D             C
+ The devil is preaching 
+.C                  D     C
+ The song of the redeemed,
+.C       D                    G
+ That I am cursed and gone astray,
+.  A      Bm   A  G Bm A Bm     A G Bm A Bm A G 
+ I cannot gain saaaaaalvvvation.
+                      
+
+[B]
+.G      Bm              A          Bm  A   G
+ Oh the devil's singing over me an age old song,
+.G         Bm              A Bm A G
+ That I am cursed and gone astray.
+.G           Bm                 A        Bm A G
+ Singing the first verse so conveniently over me,
+.G    Bm            A
+ He's forgotten the refrain...
+.       G Bm A Bm A G (repeat)
+ JESUS SAVES!
+---
+.Em 03042x
+.C    03043x (on verses only) </lyrics>
+  <style>
+  <title font="Helvetica" size="26" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="center" valign="top"/>
+  <subtitle font="Helvetica" size="18" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="center" valign="top"/>
+  <body font="Helvetica" size="34" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="center" valign="middle"/>
+  <background strip_footer="50" color="#000000"/>
+</style>
+  <hymn_number/>
+</song>
